@@ -1,6 +1,7 @@
 # MPC-based-RTP-Protocol
 
-The Repo contains a Proof Of Concept (POC) implementation of our paper titled "Multi-Party Computation based Stable and Highly Accurate Real Time Pricing"
+The Repo contains a Proof Of Concept (POC) implementation of our paper titled "Precision and Privacy: Advancing Real-Time Pricing
+in Smart Grids with Secure Computation"
 
 
 The folders "Graphs" and "Outputs" contain all the results of the paper. 
